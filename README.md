@@ -71,7 +71,7 @@ AKS_Project/
    Note that config/missiles.conf should be inside executable file's root folder.
    ```
 
-2. Run the ANS simulator:
+2. Run the ANS and Launcher simulator:
    ```
    python simulators/ANSSimulator.py and python simulators/LauncherSimulator.py
    ```
